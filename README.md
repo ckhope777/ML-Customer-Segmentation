@@ -18,7 +18,7 @@ This project applies machine learning clustering techniques to uncover natural c
      - Elbow Method & Silhouette Score for optimal k selection
      - StandardScaler for normalization
      - PCA for dimensionality reduction and visualization
-     - 
+  
 ## Approach & Methodology
 
 1. Problem Understanding
